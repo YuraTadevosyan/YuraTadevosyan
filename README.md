@@ -66,10 +66,10 @@ Feel free to reach out to me if you have any questions, project proposals, or ju
 - Email: yuratadevosyan01@gmail.com
 
 ### :fire: My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuraTadevosyan&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-iota-gray-52.vercel.app/api/top-langs/?username=YuraTadevosyan&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
-[![YuraTadevosyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuraTadevosyan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![YuraTadevosyan's GitHub stats](https://github-readme-stats-iota-gray-52.vercel.app/api?username=YuraTadevosyan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 🙌 Thank you for taking the time to explore my README and learn more about me as a front-end developer. I appreciate your interest and consideration.
